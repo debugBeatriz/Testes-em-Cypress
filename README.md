@@ -7,3 +7,6 @@
 ## Tecnologias utilizadas
 ### JavaScript
 ### Cypress 
+
+https://github.com/user-attachments/assets/1b64c052-6957-4467-a582-bf9049513293
+
